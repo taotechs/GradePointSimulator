@@ -84,7 +84,7 @@ public class SimulatorFrame extends javax.swing.JFrame {
         jTextField6.setHorizontalAlignment(javax.swing.JTextField.CENTER);
 
         jLabel5.setFont(new java.awt.Font("Impact", 0, 11)); // NOI18N
-        jLabel5.setText("COUR5E CODE");
+        jLabel5.setText("COURSE CODE");
 
         jTextField1.setHorizontalAlignment(javax.swing.JTextField.CENTER);
 
